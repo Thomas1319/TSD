@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="YCS" uuid="782010f9-abd0-4c0a-a2ca-025eecaca5a2">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\PyCharm\YCSfull\TSD-Your-Custom-Survey\YCS.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
